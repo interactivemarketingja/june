@@ -25,12 +25,12 @@ export function Bio() {
             </p>
           </div>
           <div className="space-y-4">
-            <h2 className="text-3xl font-bold font-headline md:text-4xl">About Hope</h2>
+            <h2 className="text-3xl font-bold font-headline md:text-4xl">About June Wright</h2>
             <p className="text-lg text-muted-foreground">
-              Hope is a radiant soul, known for her infectious laughter and boundless kindness. An artist, a dreamer, and a cherished friend to many, she has always been the one to bring light into every room she enters. Her passion for life is evident in everything she does, from her beautiful paintings to her love for hiking in the mountains.
+              June Wright is a radiant soul, known for her infectious laughter and boundless kindness. An artist, a dreamer, and a cherished friend to many, she has always been the one to bring light into every room she enters. Her passion for life is evident in everything she does, from her beautiful paintings to her love for hiking in the mountains.
             </p>
             <p className="text-lg text-muted-foreground">
-              An unexpected illness has placed her on a challenging path. Despite the hardships, Hope's spirit remains unbroken. She faces each day with courage and a determination that inspires us all. This journey is difficult, but with our collective support, we can help her focus on what truly matters: her recovery.
+              An unexpected illness has placed her on a challenging path. Despite the hardships, June's spirit remains unbroken. She faces each day with courage and a determination that inspires us all. This journey is difficult, but with our collective support, we can help her focus on what truly matters: her recovery.
             </p>
           </div>
         </div>
