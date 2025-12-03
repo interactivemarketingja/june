@@ -8,16 +8,21 @@ export function Bio() {
     <section className="py-12 lg:py-24 bg-background">
       <div className="container mx-auto px-4">
         <div className="grid md:grid-cols-2 gap-8 md:gap-12 items-center">
-          <div className="relative w-full aspect-square rounded-lg overflow-hidden shadow-lg">
-            {bioImage && (
-              <Image
-                src={bioImage.imageUrl}
-                alt={bioImage.description}
-                fill
-                className="object-cover"
-                data-ai-hint={bioImage.imageHint}
-              />
-            )}
+          <div>
+            <div className="relative w-full aspect-square rounded-lg overflow-hidden shadow-lg">
+              {bioImage && (
+                <Image
+                  src={bioImage.imageUrl}
+                  alt={bioImage.description}
+                  fill
+                  className="object-cover"
+                  data-ai-hint={bioImage.imageHint}
+                />
+              )}
+            </div>
+            <p className="mt-4 text-center italic text-muted-foreground">
+              "By God's word and your support I Will Walk Again."
+            </p>
           </div>
           <div className="space-y-4">
             <h2 className="text-3xl font-bold font-headline md:text-4xl">About Hope</h2>
