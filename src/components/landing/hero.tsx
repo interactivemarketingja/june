@@ -24,7 +24,7 @@ export function Hero() {
           A Beacon of Hope for Our Dearest Friend
         </h1>
         <p className="mt-6 text-lg md:text-xl max-w-2xl mx-auto">
-          Join us in supporting Hope's journey to recovery. Your contribution, big or small, brings us one step closer to her healing and brighter days ahead.
+          Join us in supporting June's journey to recovery. Your contribution, big or small, brings us one step closer to her healing and brighter days ahead.
         </p>
         <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
           <Button size="lg" asChild className="transition-transform transform hover:scale-105">

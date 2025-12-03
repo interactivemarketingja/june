@@ -3,8 +3,8 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: "Hope's Horizon",
-  description: "Join us in supporting Hope's journey to recovery.",
+  title: "June Wright",
+  description: "Join us in supporting June's journey to recovery.",
 };
 
 export default function RootLayout({

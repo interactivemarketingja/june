@@ -10,7 +10,7 @@ export function Header() {
           <Link href="/" className="mr-6 flex items-center space-x-2">
             <HandHeart className="h-6 w-6" style={{ color: 'hsl(var(--accent-foreground))' }} />
             <span className="font-bold font-headline sm:inline-block">
-              Hope's Horizon
+              June Wright
             </span>
           </Link>
         </div>

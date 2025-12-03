@@ -24,7 +24,7 @@ export function SocialShare() {
     }
   };
 
-  const shareText = "Support Hope's journey to recovery. Every little bit helps. #HopesHorizon";
+  const shareText = "Support June's journey to recovery. Every little bit helps. #JuneWright";
 
   return (
     <div className="flex items-center gap-2 bg-white/10 backdrop-blur-sm p-2 rounded-lg">

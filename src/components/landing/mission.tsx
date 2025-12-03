@@ -23,7 +23,7 @@ export function Mission() {
             </CardHeader>
             <CardContent>
               <p className="text-muted-foreground">
-                This campaign was born from the love and deep admiration we have for our dear friend, June. Witnessing her unwavering strength in the face of sudden adversity moved us to action. We believe that no one should face such a monumental challenge alone. 'Hope's Horizon' is our collective promise to her that a community of support stands with her, ready to lift her up as she navigates the path to recovery.
+                This campaign was born from the love and deep admiration we have for our dear friend, June. Witnessing her unwavering strength in the face of sudden adversity moved us to action. We believe that no one should face such a monumental challenge alone. 'June Wright' is our collective promise to her that a community of support stands with her, ready to lift her up as she navigates the path to recovery.
               </p>
             </CardContent>
           </Card>

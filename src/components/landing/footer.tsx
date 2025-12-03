@@ -7,11 +7,11 @@ export function Footer() {
         <div className="flex items-center gap-2">
             <HandHeart className="h-5 w-5" style={{ color: 'hsl(var(--accent-foreground))' }} />
             <p className="text-center text-sm leading-loose text-muted-foreground md:text-left font-headline">
-              Hope's Horizon
+              June Wright
             </p>
         </div>
         <p className="text-center text-sm text-muted-foreground md:text-left">
-          © {new Date().getFullYear()} Hope's Horizon. All Rights Reserved.
+          © {new Date().getFullYear()} June Wright. All Rights Reserved.
         </p>
       </div>
     </footer>
