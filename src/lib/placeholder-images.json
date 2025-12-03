@@ -8,9 +8,9 @@
     },
     {
       "id": "bio",
-      "description": "A portrait of Hope smiling.",
-      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwb3J0cmFpdCUyMHNtaWxpbmd8ZW58MHx8fHwxNzY0NzM2NTg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "portrait smiling"
+      "description": "A portrait of Hope in the car.",
+      "imageUrl": "https://storage.googleapis.com/gweb-aip-images/user-uploads/1719943542289.png",
+      "imageHint": "woman car"
     },
     {
       "id": "update1",
