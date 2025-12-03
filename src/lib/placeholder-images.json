@@ -1,3 +1,28 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A hopeful landscape at sunrise.",
+      "imageUrl": "https://images.unsplash.com/photo-1586695724166-d3576546880a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxob3BlJTIwc3VucmlzZXxlbnwwfHx8fDE3NjQ3MzA0MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hope sunrise"
+    },
+    {
+      "id": "update1",
+      "description": "A close-up of hands holding.",
+      "imageUrl": "https://images.unsplash.com/photo-1562388364-cfca9bff0b41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzdXBwb3J0JTIwaGFuZHN8ZW58MHx8fHwxNzY0NzMwNDI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "support hands"
+    },
+    {
+      "id": "update2",
+      "description": "A person smiling.",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwc21pbGluZ3xlbnwwfHx8fDE3NjQ3MDYyMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "update3",
+      "description": "A group of friends together.",
+      "imageUrl": "https://images.unsplash.com/photo-1580849279061-0179c4ebf14e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb21tdW5pdHklMjBmcmllbmRzfGVufDB8fHx8MTc2NDczMDQyNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "community friends"
+    }
+  ]
 }
