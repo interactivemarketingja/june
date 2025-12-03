@@ -15,7 +15,7 @@ export function Header() {
           </Link>
         </div>
         <div className="flex flex-1 items-center justify-end space-x-2">
-          <Button asChild>
+          <Button asChild className="mr-4">
             <a href="#donate">Donate Now</a>
           </Button>
         </div>
