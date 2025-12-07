@@ -8,9 +8,9 @@
     },
     {
       "id": "bio",
-      "description": "A portrait of Hope in the car.",
-      "imageUrl": "https://storage.googleapis.com/gweb-aip-images/user-uploads/1719943542289.png",
-      "imageHint": "woman car"
+      "description": "A portrait of June Wright.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/June_Wright.jpg",
+      "imageHint": "woman portrait"
     }
   ]
 }
